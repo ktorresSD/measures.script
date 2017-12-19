@@ -1,0 +1,52 @@
+Module order,first visit,follow-up visit,number_in_dictionary
+Identification,,,
+Research_ID,x,x,26
+Basic Demographics for Research,x,x,5
+,,,
+Demographics and Social Information,,,
+"Education, Employment & Income",x,x,12
+Social Environment,x,x,28
+,,,
+Service History,,,
+Service History,x,no,27
+Exposures (7 items),x,no,13
+DRRI2_CES_Biobank,x,no,10
+DRRI2_PEB_Biobank,x,no,11
+,,,
+Psychological Health,,,
+BAT-L-Modified for BIOBANK,x,no,3
+NEW: have you had a head injury since your last visit,no,NEW,2
+BTBIS (3-8 items),x,x,4
+PHQ-9,x,x,23
+MST 2016 (1-2 items),x,no,19
+GAD 7 Anxiety,x,x,14
+ISI,x,x,15
+ISI_MedQuestion,no,NEW,16
+Positive and Negative Affect Schedule,x,x,24
+LEC-5 (lifetime) (UPDATED),x,x,17
+"""LEC-5/PCL-5 interface-BIOBANK"" created",x,x,18
+PCL-5 (monthly),x,x,21
+PCL-5 (entire life),x,no,20
+Treatment History,x,no,30
+Current Treatments,x,x,9
+,,,
+Health Symptoms,,,
+Brief CESAMH Biorepository Sample Status Survey-EDITED,x,x,7
+PHQ-15,x,x,22
+PROMIS Pain Intensity (9 items),x,x,25
+Basic Pain (2 items),x,x,6
+Tinnitus Screener,x,x,29
+,,,
+Health Functioning,,,
+"WHODAS 2.0 (World Health Organization Disability Assessment Schedule 2.0: 36 item version, self-administered) *standardized*",x,x,31
+,,,
+Health Habits,,,
+AUDIT,x,x,1
+CDDR,x,X,8
+,,,
+currently on paper form:,,,
+childhood trauma,x,no, --
+,,,
+for Vicky:,,,
+HEQ,x,no,
+MASQ,x,X,
