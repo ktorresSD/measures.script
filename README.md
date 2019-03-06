@@ -6,18 +6,23 @@ number	Measure
 
 	#Identification
 26	Research_ID
+
 5	Basic Demographics for Research
 	
 	
 	#Demographics and Social Information
 12	Education, Employment & Income
+
 28	Social Environment
 	
 	
 	#Service History
 27	Service History
+
 13	Exposures (7 items)
+
 10	DRRI2_CES_Biobank
+
 11	DRRI2_PEB_Biobank
 	
 	
